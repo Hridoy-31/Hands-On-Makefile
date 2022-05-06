@@ -1,0 +1,6 @@
+Target (which file should be compiled) : Dependencies (Without this, target can not be compiled)
+    command
+    command
+    command
+
+** The indentations are TABS. If you use 4 spaces, then make will not work **
